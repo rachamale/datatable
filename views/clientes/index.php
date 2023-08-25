@@ -2,8 +2,14 @@
     <a class="navbar-brand" href="#">MENU</a>
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
+        <li class="nav-item">
+                <a class="btn btn-outline-primary" href="/datatable/menu">INICIO</a>
+            </li>
             <li class="nav-item">
                 <a class="btn btn-outline-primary" href="/datatable/clientes/index">CLIENTES</a>
+            </li>
+            <li class="nav-item">
+                <a class="btn btn-outline-primary" href="/datatable/clientes/estadistica2">ESTADISTICA CLIENTES</a>
             </li>
             <li class="nav-item">
                 <a class="btn btn-outline-primary" href="/datatable/productos/datatable">PRODUCTOS</a>
