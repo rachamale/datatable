@@ -284,8 +284,6 @@ const cancelarAccion = () => {
 
 };
 
-
-
 buscar();
 formulario.addEventListener('submit', guardar)
 btnBuscar.addEventListener('click', buscar)
